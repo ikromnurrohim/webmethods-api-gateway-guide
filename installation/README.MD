@@ -90,7 +90,7 @@ if you plan to use command central for product manager, you should just Enter [N
 
 ![2024-10-16_21-42](https://github.com/user-attachments/assets/8889c95b-eae0-4c71-88ff-c5a1d98595c1)
 
-after that it will be show the product list that ready to install, you just need to Enter [N] and it will be installing
+after that it will be show the product list that ready to install, you just need to Enter [N] and it will be installing and wait until the installtion done
 
 ![2024-10-16_21-44](https://github.com/user-attachments/assets/f7f89d54-ee14-43cf-9365-1139b528a617)
 ![2024-10-16_21-45_1](https://github.com/user-attachments/assets/e290f682-6537-4679-93ea-1c31760d54b9)
