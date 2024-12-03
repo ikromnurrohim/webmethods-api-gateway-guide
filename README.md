@@ -2,7 +2,7 @@
 
 ## Content
 [1. Installation](https://github.com/ikromnurrohim/webmethods-api-gateway-guide/blob/master/installation/README.MD#installation) \
-[2. Configuration](https://github.com/ikromnurrohim/webmethods-api-gateway-guide/blob/master/installation/README.MD#installation)
+[2. Configuration](https://github.com/ikromnurrohim/webmethods-api-gateway-guide/blob/master/configuration/README.MD)
 
 
 
