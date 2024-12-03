@@ -11,9 +11,11 @@
 
 
 
+## Simple Architecture of API Gateway
 
-
-
+```mermaid
+graph LR
+A(Client) --> B(API Gateway) --> C(Backend Service)
 
 
 ## Nice References
