@@ -2,7 +2,7 @@
 If you are new to install and config API Gateway, maybe you want to know how to check API Gateway is up and running, or it's API Gateway up and running but you can't access it.
 
 
-### Check Available Port 
+### Check Availability Port 
 using this command:
 ```
 netstat -ntlp
