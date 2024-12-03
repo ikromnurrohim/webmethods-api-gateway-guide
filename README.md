@@ -1,4 +1,13 @@
-# How to Install and Configure the webMethods API Gateway on Linux
+# API Gateway Administrator
+API Gateway Serving as the entry point for API requests, responsible for tasks like routing, load balancing, enforce policies like JWT, OAuth2, request and response transformation.
+
+## Simple Architecture of API Gateway
+
+```mermaid
+graph LR
+A(Client) --> B(API Gateway) --> C(Backend Service)
+```
+
 
 ## Content
 [1. Installation](https://github.com/ikromnurrohim/webmethods-api-gateway-guide/blob/master/installation/README.MD#installation) \
@@ -9,14 +18,6 @@
 
 
 
-
-
-## Simple Architecture of API Gateway
-
-```mermaid
-graph LR
-A(Client) --> B(API Gateway) --> C(Backend Service)
-```
 
 
 ## Nice References
