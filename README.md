@@ -1,7 +1,7 @@
 # API Gateway Administrator
 API Gateway Serving as the entry point for API requests, responsible for tasks like routing, load balancing, enforce policies like JWT, OAuth2, request and response transformation.
 
-## Simple Architecture of API Gateway
+#### Simple Architecture of API Gateway
 
 ```mermaid
 graph LR
@@ -9,7 +9,7 @@ A(Client) --> B(API Gateway) --> C(Backend Service)
 ```
 
 
-## Content
+## List Content
 [1. Installation](https://github.com/ikromnurrohim/webmethods-api-gateway-guide/blob/master/installation/README.MD#installation) \
 [2. Configuration](https://github.com/ikromnurrohim/webmethods-api-gateway-guide/blob/master/configuration/README.MD) \
 [3. Start, Stop and Restart API Gateway](https://github.com/ikromnurrohim/webmethods-api-gateway-guide/blob/master/start-stop-api-gateway/README.MD) \
