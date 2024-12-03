@@ -22,7 +22,7 @@ echo "user_name hard nproc 4096" >> /etc/security/limits.conf
 ### Starting API Gateway
 To starting, stoping and restarting go to the directory:
 ```
-<SoftwareAGInstallDir>/profiles/IS_default/
+<SoftwareAGInstallDir>/profiles/IS_<instance_name>/
 ```
 
 For starting:
