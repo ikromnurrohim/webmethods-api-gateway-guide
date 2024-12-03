@@ -47,3 +47,7 @@ sudo firewall-cmd --reload
 ```
 
 then try to access API Gateway UI through Browser.
+
+
+### API Gateway Has Started but can't UP.
+If you are runnig API Gateway from ```<SoftwareAGInstallDir>/profiles/IS_<instance_name>/bin/``` but you have been check the server.log, the server not up. for this situation, first shutdown your API Gateway after that run command ```ls -la``` in this directory ```<SoftwareAGInstallDir>/profiles/IS_<instance_name>/bin/``` if the the results available file with name *.lock* and *wrapper.anchor* then remove both file, after that startup again the API Gateway.
